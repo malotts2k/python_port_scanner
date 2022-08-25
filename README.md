@@ -2,7 +2,10 @@
 
 This is a really fantastic portable tool to quickly scan the open ports on a host. It only took a few minutes of breezing through tutorials and reading stackexchange to find the code to bolt together to actually make this work.
 
-I've uploaded the Python script in this repo but the raw code to execute this code can be found at the bottom of this entry.
+I've uploaded the Python script in this repo but the raw code to execute this code can be found at the bottom of this entry.  I've also included a screenshot of the structure of the code and how it's built out for reference.
+
+![image](https://user-images.githubusercontent.com/105020710/186779826-e59d2ddf-a2cb-4366-afc6-001a4cf86703.png)
+
 
 The end result of the script (depending on the port range and amount of threads defined) look like this:
 
