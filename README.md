@@ -9,7 +9,7 @@ I've uploaded the Python script in this repo but the raw code to execute this co
 
 The end result of the script (depending on the port range and amount of threads defined) look like this:
 
-![image](https://user-images.githubusercontent.com/105020710/186779444-56cb1821-d0b9-43a6-88a2-242dd1127de4.png)
+![image](https://user-images.githubusercontent.com/105020710/186780038-faebf540-26e0-4821-96c8-89da7b8302ed.png)
 
 
 <br>
